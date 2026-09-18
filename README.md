@@ -16,7 +16,7 @@ A uBlock Origin filter for [ChatGPT](https://chatgpt.com) removing ad elements.
 Add the filter list to **uBlock Origin → Filter lists → Import...**:
 
 ```text
-https://raw.githubusercontent.com/gergogyulai/adfreegpt/main/filters.txt
+https://raw.githubusercontent.com/gergogyulai/adfreegpt/main/main.txt
 ```
 
 Or copy it from [`main.txt`](./main.txt) into your uBlock Origin **My filters** section.
