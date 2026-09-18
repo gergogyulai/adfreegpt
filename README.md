@@ -6,10 +6,10 @@
   <br>
 </div>
 
-A small uBlock Origin filter for [ChatGPT](https://chatgpt.com) removing ad elements.
+A uBlock Origin filter for [ChatGPT](https://chatgpt.com) removing ad elements.
 
-* ⚡ Lightweight and simple
-* 🔄 Updated as ChatGPT's UI changes
+* ⚡ Lightweight
+* 🔄 Following UI changes
 
 ## Install
 
